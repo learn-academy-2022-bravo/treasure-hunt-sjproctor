@@ -20,7 +20,11 @@
   - Branch: tree-emoji
   - Reassign the value of the array to be a tree
   - control + command + space - emoji keyboard
-- As a user, if I select the winning square the question mark will become a treasure emoji.
+- As a user, if I select the winning square the question mark will become a treasure emoji. (done)
+  - Branch: treasure
+  - Create random location
+  - Set random location to state
+  - Use a conditional to reassign the treasure location
 - As a user, if I select the losing square the question mark will become a bomb emoji.
 - As a user, I can see a counter that shows how many guesses I have left. The counter starts at 5 and decrements one every time I click on a square that is not the treasure nor the bomb.
 - As a user, I can see a message informing me that I won the game if I select the square that contains the treasure.
