@@ -16,7 +16,10 @@
   - Branch: alert-index
   - Click event that shows the index in Square
   - App.js needs to know the index
-- As a user, when I click on one of the question marks instead of the alert the question mark turns into a tree emoji.
+- As a user, when I click on one of the question marks instead of the alert the question mark turns into a tree emoji. (done)
+  - Branch: tree-emoji
+  - Reassign the value of the array to be a tree
+  - control + command + space - emoji keyboard
 - As a user, if I select the winning square the question mark will become a treasure emoji.
 - As a user, if I select the losing square the question mark will become a bomb emoji.
 - As a user, I can see a counter that shows how many guesses I have left. The counter starts at 5 and decrements one every time I click on a square that is not the treasure nor the bomb.
